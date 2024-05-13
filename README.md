@@ -5,7 +5,6 @@ This repository contains automated tests for the Findme F3+ GSP Tracker. These t
 
 ## Contents
 - **Tests:**
-- 
 F3+: This directory contains all the automated tests for the Findme F3+ written in Python with Selenium.
 FW3Pro: This directory contains all the automated tests for the FW3Pro written in Python with Selenium.
 Reports: After running the tests, reports will be generated in this directory detailing the test results. Each report is saved as a text file with the format: test_name.txt
